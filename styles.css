@@ -102,6 +102,7 @@ body{
     margin-top: 14px;
     background-color: var(--Bright-Yellow);
     color: var(--White);
+    cursor: pointer;
 }
 
 .price{
